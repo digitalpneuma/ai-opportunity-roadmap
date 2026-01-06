@@ -55,4 +55,4 @@ This is the frontend web interface for the AI Opportunity Map Generator.
 
 ## 🚀 Live Demo
 
-Try it here: [Your Replit URL]
+Try it here: https://opportunity-canvas--digitalpneuma.replit.app/
