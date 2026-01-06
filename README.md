@@ -40,10 +40,19 @@ Beautiful web interface for the AI-powered automation opportunity analyzer.
 4. Professional HTML email sent to user
 5. Success message displayed
 
-## Related Projects
+## 🔗 Related Projects
 
-- [n8n Workflow](link-to-your-n8n-repo) - Backend automation workflow
+This is the frontend web interface for the AI Opportunity Map Generator.
 
-## License
+**Backend Workflow:**
+- [n8n Automation Workflow](https://github.com/digitalpneuma/ai-opportunity-map-n8n) - The AI engine that powers this app
 
-MIT
+**How They Work Together:**
+1. User fills out form on this frontend
+2. Form sends data to n8n webhook
+3. n8n runs AI analysis
+4. Beautiful email report sent to user
+
+## 🚀 Live Demo
+
+Try it here: [Your Replit URL]
